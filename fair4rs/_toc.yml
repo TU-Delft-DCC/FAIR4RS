@@ -3,7 +3,19 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+parts:
+- caption: Program information
+  chapters:
+  - file: program-details
+  - file: code-of-conduct
+  - file: communication
+  - file: organizers
+  - file: schedule
+- caption: Seminars
+  chapters:
+  - file: 1-intro
+  - url: https://coderefinery.github.io/2023-03-21-workshop/
+    title: Week 2 - CodeRefinery workshop
+  - url: https://coderefinery.github.io/2023-03-21-workshop/
+    title: Week 3 - CodeRefinery workshop
+  - file: 4-project-planning
