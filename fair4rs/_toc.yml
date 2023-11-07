@@ -1,9 +1,37 @@
-# Table of contents
-# Learn more at https://jupyterbook.org/customize/toc.html
-
 format: jb-book
-root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+root: index
+parts:
+- caption: Program information
+  chapters:
+  - file: program-details
+  - file: code-of-conduct
+  - file: communication
+  - file: organizers
+  - file: schedule
+
+- caption: Seminars
+  chapters:
+  - file: 1-intro
+  - url: https://coderefinery.github.io/2023-03-21-workshop/
+    title: Week 2 - CodeRefinery workshop
+  - url: https://coderefinery.github.io/2023-03-21-workshop/
+    title: Week 3 - CodeRefinery workshop
+  - file: 4-project-planning
+    title: Week 4 - Project planning
+  - file: 5-reproducibility
+    title: Week 5 - Reproducibility
+  - file: 6-documentation
+    title: Week 6 - Documentation
+  - file: 7-collaboration
+    title: Week 7 - Collaborating
+  - file: 8-holiday
+    title: Week 8 - Holiday
+  - file: 9-code-quality-1
+    title: Week 9 - Code quality 1
+  - file: 10-code-quality-2
+    title: Week 10 - Code quality 2
+
+- caption: Resources
+  chapters:
+  - file: resources
+    title: Resources
