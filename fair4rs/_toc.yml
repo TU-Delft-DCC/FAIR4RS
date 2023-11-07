@@ -12,6 +12,7 @@ parts:
 - caption: Seminars
   chapters:
   - file: 1-intro
+    title: Week 1 - Introduction
   - url: https://coderefinery.github.io/2023-03-21-workshop/
     title: Week 2 - CodeRefinery workshop
   - url: https://coderefinery.github.io/2023-03-21-workshop/
@@ -33,5 +34,7 @@ parts:
 
 - caption: Resources
   chapters:
+  - url: https://tu-delft-dcc.github.io/software/project_cards.html
+    title: FAIR cards
   - file: resources
     title: Resources
