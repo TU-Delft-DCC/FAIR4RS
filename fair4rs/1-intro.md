@@ -47,8 +47,8 @@ Fill in this short form to help us (and yourself) better understand your needs a
     2. Create a new note
     3. Copy-paste the content of the template
 
-:::{info}
-:information_source: **Why do we chose this tool?** 
+:::{admonition} Why do we chose this tool?
+:class: note
 Hackmd is based on markdown, it is highly accessible, collaborative and has a very low friction to use. Be aware, you are making use of a public service, only share things you feel are not an issue to have in the public domain.
 :::
 
@@ -59,14 +59,14 @@ Hackmd is based on markdown, it is highly accessible, collaborative and has a ve
 
 Create a draft for a software management plan (SMP) using one of the following templates in your FAIR4RS journal.
 
-:::{hint}
+:::{tip}
 Don't worry if you can't answer all the questions, this is a living document. You can iterate over this draft as we move along the program.
 :::
 
 Most likely, SMP template 1 (medium management level) is most suitable for a typical research software project. If you identify your software management level is lower or higher, then pick one of the other templates. Try to use the template as a guide, if you find that other points that appear in the template for high level management, you can also add them to your SMP.
 
-:::{info}
-:information_source: The templates are directly taken from the [Practical guide to Software Management Plans](https://zenodo.org/record/7589725). You can read more about the different management levels there.
+:::{note}
+The templates are directly taken from the [Practical guide to Software Management Plans](https://zenodo.org/record/7589725). You can read more about the different management levels there.
 :::
 
 #### SMP template #1 - medium management level
@@ -187,7 +187,6 @@ privacy, information security, etc.
 
 **Code Refinery**
 - [Code Refinery setup instructions](https://coderefinery.github.io/installation/)
-
 
 **FAIR**
 - [Introducing the FAIR principles for research software](https://www.nature.com/articles/s41597-022-01710-x)

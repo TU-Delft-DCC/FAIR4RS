@@ -1,6 +1,6 @@
 # Week 4 - Project planning
 
-:::{admonition} 
+:::{admonition} Today's learning objectives
 **Topics for today:**
 - Reflect on the status of your project with respect to the Code Refinery lessons
 - Define your project goals

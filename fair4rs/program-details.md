@@ -1,22 +1,5 @@
 # Program information
 
-`````{admonition} FAIR
-:class: tip
-**F**indable **A**ccessible **I**nteroperable **R**eusable
-`````
-
-
-## Who is it for?
-- Are you a TU Delft researcher working actively with code as part of your research?
-- Do you wish you could re-run your own code after a few months?
-- Do you find it challenging to collaborate with colleagues when developing your code?
-- Do you wish you could automate your work better?
-- Would you like to learn to adopt best practices to increase your coding productivity, and write more robust, reusable, and easy-to-share code?
-
-The TU Delft Digital Competence Centre (DCC) is offering a 13-week **FAIR for Research Software Program** (FAIR4RS program) that aims to teach you the essential tools to create scientific software following the FAIR principles and how to apply them to your own project.
-
-## Program contents
-
 The program is designed as an **active learning experience** during which you will work on your research software project. 
 
 First, you will follow a [Code Refinery workshop](https://coderefinery.org/lessons/core/). In this workshop, you will become familiar with tools and best practices for scientific software development. This course will not teach a programming language, but will teach you the tools you need to do programming well and avoid common inefficiency traps. The tools you learn are practically a requirement for any scientist who needs to write code. The main focus is on using Git for efficiently writing and maintaining research software.
