@@ -13,7 +13,7 @@ By the end of this seminar and by completing the assignments, you will put your 
 ## 📆 Seminar schedule
 
 - Welcome!
-- Reminder of the [**Code of Conduct**](/isBPjSUoRL6Kvr1LjaZe7Q)
+- Reminder of the [**Code of Conduct**](./code-of-conduct.md)
 - Reflect on the Code Refinery and upcoming seminars [10 min]
 - Discuss previous assignments [10 min]
 - Introduce project boards [15 min]
@@ -109,7 +109,7 @@ _Recommended_
     - Add the issues to your project board
     - Consider creating task lists in your issue
 
-:::{info}
+:::{note}
 **Things to consider**
 - Modify your github board to reflect a workflow that matches the level of complexity of your project.
 - How will you differentiate between an idea, bug, task, or feature? What labels will you use?

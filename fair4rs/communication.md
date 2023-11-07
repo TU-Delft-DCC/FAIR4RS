@@ -22,4 +22,4 @@ Most of the communication will take place through the [FAIR4RS MS Teams](https:/
 All developed materials, seminar meeting notes, and assignments, are collected in our [Hackmd documents](https://hackmd.io/@mwakok/ry0Jusi85). 
 
 ## DCC mailbox
-For personal and administrative questions, or the reporting of [Code of Conduct](/tMtAgds8QpyI1xGZrh9BjA) violations, you can reach us via dcc@tudelft.nl
+For personal and administrative questions, or the reporting of [Code of Conduct](./code-of-conduct.md) violations, you can reach us via dcc@tudelft.nl

@@ -12,7 +12,7 @@ After going through the assignments, you will have reproduced someone else's env
 ## 📆 Seminar schedule
 
 - Welcome!
-- Reminder of the [**Code of Conduct**](/isBPjSUoRL6Kvr1LjaZe7Q)
+- Reminder of the [**Code of Conduct**](./code-of-conduct.md)
 - Discuss previous assignments and share progress [10 min]
 - Introduce challenge and explain assignments [15 min]
 - Work on assignments [90 min]
@@ -90,7 +90,7 @@ Get someone to test your project's reproducibility. In order to achieve this mil
 2. Make any modifications (commit) in your repo during the process including the feedback you get from someone that tried to reproduce your environment.
 
 
-:::{adminition} Read this if you get stuck
+:::{admonition} Read this if you get stuck
 :class: dropdown
 - Document the steps to recreate the computational environment in your `README.md`
 - Share your installation instructions with a colleague and invite she/him to install and test your environment.

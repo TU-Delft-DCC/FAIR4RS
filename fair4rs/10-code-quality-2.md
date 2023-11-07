@@ -15,14 +15,14 @@ By the end of the seminar we would like you to have an automatic workflow runnin
 ## 📆 Seminar schedule
 
 - Welcome!
-- Reminder of the [**Code of Conduct**](/isBPjSUoRL6Kvr1LjaZe7Q)
+- Reminder of the [**Code of Conduct**](./code-of-conduct.md)
 - Discuss previous assignments [20 min]
 - Introduce assignments [15 min]
 - Work on assignments [50 min]
 
 ## 🙋 Discussion and questions
 
-:::{info}
+:::{note}
 **Questions:**
 - Did you identify code smells in your code base?
 - Did you manage to write and run a test?
@@ -59,7 +59,7 @@ GitHub Actions looks for workflow in the folder **`.github/workflows/`**. Let's 
 
 :::{admonition} Show workflow
 :class: dropdown
-```yaml=
+```yaml
 name: Docs
 on: [push, pull_request, workflow_dispatch]
 permissions:
@@ -96,7 +96,7 @@ jobs:
 :::{admonition} Show workflow
 :class: dropdown
 
-```yaml=
+```yaml
 name: Python package
 
 on:

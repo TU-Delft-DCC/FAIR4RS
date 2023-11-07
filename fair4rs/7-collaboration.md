@@ -13,7 +13,7 @@ By the end of the seminar we would like you to have defined and documented a wor
 ## 📆 Seminar schedule
 
 - Welcome!
-- Reminder of the [**Code of Conduct**](/isBPjSUoRL6Kvr1LjaZe7Q)
+- Reminder of the [**Code of Conduct**](./code-of-conduct.md)
 - Discuss previous assignments [20 min]
 - Introduce assignments [15 min]
 - Work on assignments [50 min]
@@ -23,7 +23,7 @@ By the end of the seminar we would like you to have defined and documented a wor
 
 
 ## Reflection on collaborative software development
-:::{info}
+:::{note}
 **What we are not covering about collaboration in Today's assignments** 
 - We are not covering collaboration that takes place in science such as preprints, drafts, reviews.
 - How you collaborate with scientists in an open science way in general. 
@@ -105,7 +105,7 @@ When collaborating with other developers, it is a good idea to define a common w
 
 2. Think about a contribution workflow that suits your project.
 
-    :::info
+    :::{note}
     **Some questions to consider when defining a suitable workflow:**
     - What users and developers are you expecting?
     - How would you manage tracking and solving issues?
@@ -145,7 +145,7 @@ You don't need to adopt all situations, but reflect on the type of contributions
 4. Keep a **light and friendly tone** in your contributor guidelines. New contributors can be nervous about contributing to a project, and a jovial tone in your contributing guidelines can help alleviate that.
 :::
 
-:::{info}
+:::{note}
 **👉 Some inspiration:**
 - [Template Contributing guide](https://github.com/cncf/project-template/blob/main/CONTRIBUTING.md)
 - [Example Contributing guide for TU Delft research software](https://github.com/SATAY-LL/Transposonmapper/blob/main/CONTRIBUTING.md)

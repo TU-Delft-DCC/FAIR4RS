@@ -14,7 +14,7 @@ By the end of the seminar we would like you to have a documentation approach/sys
 ## 📆 Seminar schedule
 
 - Welcome!
-- Reminder of the [**Code of Conduct**](/isBPjSUoRL6Kvr1LjaZe7Q)
+- Reminder of the [**Code of Conduct**](./code-of-conduct.md)
 - Discuss previous assignments [20 min]
 - Introduce assignments [15 min]
 - Work on assignments [50 min]
@@ -85,7 +85,7 @@ Add essential files that make your software project instantly more Accessible an
     
     The TU Delft released a high-level [Software Policy](https://zenodo.org/record/4629662#.ZD7vJnZByUk) that lists pre-approved open-source licenses. 
     
-    :::info
+    :::{note}
     For more information, detailed [TU Delft Research Software Guidelines](https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Over_TU_Delft/Strategie/TU%20Delft%20Research%20Software%20Guidelines.pdf) about licensing, registration, and commercialization are available. This document also details the required steps to reclaim the copyright to your software (page 27) as TU Delft by default holds the rights to the software created by its employees.
     :::
    
@@ -100,7 +100,7 @@ Add essential files that make your software project instantly more Accessible an
 ### Assignment 2
 Now that we have the minimum required for FAIR documentation for research software, let's define a broader approach towards your project documentation.
 
-:::{info}
+:::{note}
 **What do we mean by documentation system?**
 
 What no body tells you about documentation is that is not just one thing, but several. How-to-guides, tutorials, in-code documentation, knowledge-base and explanation of concepts can all be part of documentation. In the case of research software, Jupyter notebooks often are an essential documentation tool. [**Divio**](https://documentation.divio.com/) offers a great overview of the types of documentation.
@@ -109,7 +109,7 @@ What no body tells you about documentation is that is not just one thing, but se
 1. Define the documentation that you, your users, and your collaborators would need to understand and use your software.
 2. Make a todo list (GitHub issues) based on these considerations.
 
-:::success
+:::{tip}
 **💡 Tip:** Think about a minimum approach that improves your current situation, and a more ambitious approach.
 :::
 
@@ -121,7 +121,7 @@ What no body tells you about documentation is that is not just one thing, but se
 - Using common naming conventions (check a style guide).
 - Adding whitelines and avoid compound statements.
 
-:::{info}
+:::{note}
 Every major open-source project (e.g. [**Numpy**](https://numpydoc.readthedocs.io/en/latest/format.html)) has its own style guide: a set of conventions (sometimes arbitrary) about how to write code for that project. It is much easier to understand a large codebase when all the code in it is in a consistent style. 
 :::
 

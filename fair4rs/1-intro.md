@@ -20,10 +20,10 @@ Link to the [slides](https://docs.google.com/presentation/d/e/2PACX-1vR9jn521cfN
 :class: important
 - [x] Lightning roll call 
 - [x] Invite participants to FAIR4RS Teams
-- [x] Review [Code of Conduct](/isBPjSUoRL6Kvr1LjaZe7Q)
-- [x] Go over [Schedule](/LppHweuWQJO1WM9cEhkEHA)
+- [x] Review [Code of Conduct](./code-of-conduct.md)
+- [x] Go over [Schedule](./schedule.md)
 - [x] Reminder: [sign up](https://indico.neic.no/event/242/registrations/145/) for the Code Refinery workshop
-- [x] [Create teams](https://hackmd.io/@fair4rs/HySSQfzxh) for the Code Refinery workshop
+- [x] Create teams for the Code Refinery workshop
 - [x] Optional: verify installation for the Code Refinery workshop
 :::
 

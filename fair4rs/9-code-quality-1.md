@@ -15,7 +15,7 @@ By the end of the seminar we would like you to have identified possible improvem
 ## 📆 Seminar schedule
 
 - Welcome!
-- Reminder of the [**Code of Conduct**](/isBPjSUoRL6Kvr1LjaZe7Q)
+- Reminder of the [**Code of Conduct**](./code-of-conduct.md)
 - Discuss previous assignments [10 min]
 - Reflection on software quality [45 min]
 - Introduce assignments [5 min]
@@ -48,7 +48,7 @@ Example of research software from the eScience Center that implements code quali
 :::
 
 
-:::{info}
+:::{note}
 **Additional information**
 The University of Utrecht has offered a module on Code Quality during a workshop on software reproducibility. Have a look at the slides for some general tips and common best practices:
 
@@ -62,7 +62,8 @@ We identified three additional resources that provide some standards on code qua
 1. The [OpenSSF Best Practices Badge Program](https://bestpractices.coreinfrastructure.org/en) offers a shared quality standard for open software. Projects can voluntarily self-certify, at no cost, by using a web application to explain how they follow each of the [**best practices**](https://bestpractices.coreinfrastructure.org/en/criteria/0). Once completed, you are provided with a badge to add to your repository.
 2. The European Open Science Cloud (EOSC) Association has created [tools and documentation](https://www.eosc-synergy.eu/for-developers/) for setting software quality standards for research. They have developed a [**minimum viable set of quality requirements**](https://digital.csic.es/bitstream/10261/160086/11/manuscript-v4.1.pdf) for software.
 3. The International Standard Organisation (ISO) has issued a standard (ISO 9126) for software quality criteria (not specific to research software). An overview of the standard with descriptions, can be found [**here**](https://www2.cs.sfu.ca/~cameron/Teaching/473/quality_characteristics.html).
-    :::spoiler Diagram
+    :::{note} Diagram
+    :class: dropdown
     ![ISO 9126](https://hackmd.io/_uploads/S1Q181tV2.png =500x500)
     :::
 :::
@@ -130,7 +131,7 @@ Now, evaluate your own project following the software quality characteristics we
 - Consider for these priorities those things you will address in your next release.
 
 Here is an example to help you get started:
-:::{info}
+:::{note}
 **Must address this year**
 - Suitability: The capability of the software to provide an adequate set of functions for specified tasks and user objectives. 
 - ...
@@ -154,7 +155,7 @@ Here is an example to help you get started:
 
 ---
 ### Assignment 3
-:::{info}
+:::{note}
 **Code refactoring**  
 In computer programming and software design, code refactoring is the process of restructuring existing computer code — changing the factoring — without changing its external behavior. Refactoring is intended to improve the design, structure, and/or implementation of the software (its non-functional attributes), while preserving its functionality. 
 :::
